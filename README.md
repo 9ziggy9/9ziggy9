@@ -3,7 +3,7 @@ My name is David and I'm a junior web development instructor. As a college dropo
 
 My real passion in computing is computer architecture and low-level concepts although my knowledge is sub-mediocre at best. I'm a C programmer at heart.
 
-No offense, but if I'm not allowed to use emacs, I'm not interested.
+No offense, but if it can't be done with emacs it ought not be done.
 
 - 🔭 I’m currently working on a chip-8 emulator
 - 🌱 I’m currently learning Haskell, x86 assembler
