@@ -10,7 +10,7 @@ No offense, but if I'm not allowed to use emacs, I'm not interested.
 - 👯 I’m looking to collaborate on any low-level game ideas
 - 🤔 I’m looking for help with whatever tf a monad is
 - 💬 Ask me about mathematics of simulations
-- ⚡ Fun fact: I dropped out of college but my math/physics knowledge is probably postgraduate level.
+- ⚡ Fun fact: install gentoo
 
 <!--
 **9ziggy9/9ziggy9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
