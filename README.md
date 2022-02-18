@@ -14,5 +14,5 @@ No offense, but if it can't be done with emacs it ought not be done.
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)
+<img width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?9ziggy9"/>
 
