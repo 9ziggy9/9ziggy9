@@ -12,7 +12,5 @@ No offense, but if it can't be done with emacs it ought not be done.
 - 💬 Ask me about mathematics of simulations
 - ⚡ Fun fact: install gentoo
 
-
-
-<img width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?9ziggy9"/>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=9ziggy9&hide=css,html)
 
