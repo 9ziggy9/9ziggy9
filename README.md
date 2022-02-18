@@ -12,5 +12,6 @@ No offense, but if it can't be done with emacs it ought not be done.
 - 💬 Ask me about mathematics of simulations
 - ⚡ Fun fact: install gentoo
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
