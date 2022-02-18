@@ -7,10 +7,6 @@ No offense, but if it can't be done with emacs it ought not be done.
 
 - 🔭 I’m currently working on a chip-8 emulator
 - 🌱 I’m currently learning Haskell, x86 assembler
-- 👯 I’m looking to collaborate on any low-level game ideas
-- 🤔 I’m looking for help with web assembly!
-- 💬 Ask me about mathematics of simulations
-- ⚡ Fun fact: install gentoo
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=9ziggy9&hide=css,html,dockerfile,cmake,mako&langs_count=8&layout=compact&exclude_repo=dotfiles)
 
