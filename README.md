@@ -12,6 +12,7 @@ No offense, but if it can't be done with emacs it ought not be done.
 - 💬 Ask me about mathematics of simulations
 - ⚡ Fun fact: install gentoo
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?9ziggy9" frameborder="0"></iframe>
 <!--
 **9ziggy9/9ziggy9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
